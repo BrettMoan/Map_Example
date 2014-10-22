@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Collections_Internet</string>
+    <string name="textView1">Hello World! \nYou can either:\n\nEnter a new key value pair. \n\nOR\n\nClear the Map. \n\n(key is blue input box and value is green input box)</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Add key/value pair to Map!</string>
+    <string name="button2">Clear all Elements From Map!</string>
+    <string name="editText1">Key:</string>
+    <string name="editText2">Value:</string>
+    <string name="duplicate_key_message">You cannot enter duplicate Keys into a Map!</string>
+    <string name="duplicate_key_dialog_title">Duplicate Key Detected!</string>
+
+
+
+</resources>
